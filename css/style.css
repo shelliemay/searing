@@ -2,5 +2,16 @@ body{
   background: white;
 }
 
+.header{
+  width:100%;
+  height:9%;
+}
 
-sdfsafd
+.header-left{
+  color:#85E024;
+  font-family:Courier;
+
+}
+.header-right{
+  color:#ACE075;
+}
