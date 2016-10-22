@@ -1,5 +1,5 @@
 body{
-  background: white;
+  background-color:#F5E9E9;
 }
 
 .header{
@@ -9,9 +9,28 @@ body{
 
 .header-left{
   color:#85E024;
-  font-family:Courier;
-
+  font-family:Billabong;
+  font-size: 70px;
 }
+
 .header-right{
   color:#ACE075;
+  font-size:40px;
+  float:right;
+}
+
+.main-top h1{
+  fount-family:Georgia;
+  fount-size:100px;
+}
+
+.main-top h2 h3{
+  fount-family:Georgia;
+  font-size:30px;
+}
+
+.want-box-text{
+  width:406px;
+  height:88px;
+  border:
 }
